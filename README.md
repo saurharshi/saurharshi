@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Harshita<br><br>🎓 MCA student | Fresher  <br>📊 Focused on Data Science & Machine Learning  <br>🌐 Interested in Web Development<br><br>🛠️ Currently working on:<br>Data science and machine learning projects involving data preprocessing, model building, and applied deep learning. <br>Also building web applications to deploy and showcase solutions.<br><br>🌱 Currently learning:<br>Advanced machine learning,deep learning with TensorFlow, and integrating ML models into web-based systems.<br><br>🤝 Looking to collaborate on:<br>Data science projects, ML research-oriented work, and full-stack applications with ML components.<br><br>🆘 Looking for help with:<br>Real-world datasets, model optimization, and production-level ML workflows.<br><br>💬 Ask me about:<br>Python, data science fundamentals, machine learning projects, or building ML-powered web apps.<br><br>⚡ Fun fact:<br>I enjoy combining analytical thinking with clean and functional UI design.
+👋 Hi, I’m Harshita<br><br>🎓 MCA student | Fresher  <br>📊 Data Science enthusiast | 🌐 Interested in Web Development<br><br>🛠️ Working on:<br>Python, data science, and machine learning projects, along with basic web applications.<br><br>🌱 Learning:<br>Machine learning, deep learning (TensorFlow), and full-stack fundamentals.<br><br>🤝 Open to:<br>Collaborating on beginner-friendly data science, ML, and web projects.<br><br>⚡ Fun fact:<br>I like turning data ideas into simple, usable applications.
 
 
 ## 🌐 Socials:
@@ -12,8 +12,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=saurharshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurharshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=saurharshi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
